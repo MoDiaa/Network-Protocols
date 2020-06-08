@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "257935805412",
+    "firebase_url": "https://view-ramadany-85f1b.firebaseio.com",
+    "project_id": "view-ramadany-85f1b",
+    "storage_bucket": "view-ramadany-85f1b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257935805412:android:f3c0fabaf9ee135dfa55f1",
+        "android_client_info": {
+          "package_name": "com.example.modiaa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257935805412-lfq5d7fujs5ktfhsqc1ak7mpatsst20h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBB-qQ-pFmAjUZpi4_RgF1C_iaxxGnndk8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "257935805412-lfq5d7fujs5ktfhsqc1ak7mpatsst20h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -6,12 +6,13 @@
     android:layout_height="match_parent"
     android:background="@drawable/walpaper"
 
-    tools:context=".listView">
+    tools:context=".Moslsalat">
 
-    <ListView
-        android:id="@+id/list1"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="125dp"
+        android:layout_height="137dp"
+        android:text="Moslsalat"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
